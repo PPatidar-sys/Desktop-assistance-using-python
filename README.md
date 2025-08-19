@@ -26,5 +26,18 @@ pip install  -r requirement.txt
 ```
 
 
+## required github commands
+
+```bash 
+
+git add .
+
+git commit -m "message"
+
+git push origin main
+
+```
+
+
 
 
